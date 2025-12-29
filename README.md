@@ -40,8 +40,9 @@ I am a fresher looking to begin my career as a Data Analyst. I have a strong bac
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnkoshAade123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Quote
+> “Every dataset has a story. A data analyst finds the plot.”
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AnkoshAade123&limit=5&theme=dark&combine_all_yearly_contributions=true)
