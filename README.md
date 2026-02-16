@@ -9,7 +9,7 @@
 
 - 🎓 **Background:** BSc in Mathematics and Computer Science with strong foundations in statistics & programming  
 - 🔭 **Working on:** Data analysis projects using Python, SQL/MySQL, and Power BI  
-- 🌱 **Learning:** Machine Learning, AI concepts, advanced SQL  
+- 🌱 **Learning:** Machine Learning, AI concepts, advanced SQL   
 - 👯 **Open to:** Internships, beginner ML projects, data analytics collaborations  
 - 💬 **Skills:** Python, SQL/MySQL, Power BI, Excel, Statistics, Machine Learning (Basics)  
 - ⚡ **Fun fact:** I enjoy turning raw data into meaningful insights 📈
