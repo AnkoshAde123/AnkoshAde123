@@ -2,7 +2,7 @@
 ### 📊 Data Analyst Fresher | Python | SQL | Power BI | Machine Learning  
 🇮🇳 India
 
-📧 **Email:** ankoshade22@gmail.com  
+📧 **Email:** ankoshade22@gmail.com   
 🎯 Actively seeking **entry-level / fresher opportunities**
 
 ---
